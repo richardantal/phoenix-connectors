@@ -589,6 +589,7 @@
       <dependency>      
         <groupId>org.apache.calcite</groupId>
         <artifactId>calcite-core</artifactId>
+        <version>1.10.0</version>
         <exclusions>
           <exclusion>
             <!-- PHOENIX-6478: exclude a dependency that is not required and not available at Maven Central -->
